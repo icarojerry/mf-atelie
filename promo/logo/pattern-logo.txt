@@ -1,0 +1,6 @@
+Nome: Mãos de Fada
+    Cor: #FF0080
+    Fonte: French Script MT
+Nome: ateliê
+    Cor: #FF92A8
+    Fonte: Boring Joined
