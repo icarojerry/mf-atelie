@@ -16,7 +16,10 @@
    id="svg4723"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="etiqueta-02.svg">
+   sodipodi:docname="etiqueta-02.svg"
+   inkscape:export-filename="/home/icarojerry/Downloads/etiqueta-02.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4725">
     <radialGradient
@@ -93,9 +96,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="472.19459"
-     inkscape:cy="253.62047"
+     inkscape:zoom="0.35"
+     inkscape:cx="192.8055"
+     inkscape:cy="273.4353"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -112,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3115,6 +3118,30 @@
                inkscape:connector-curvature="0" />
           </g>
         </g>
+      </g>
+    </g>
+    <g
+       id="g14526"
+       transform="matrix(0.98963083,0,0,0.9798053,448.42176,-21.831455)">
+      <g
+         style="fill:#916f6f"
+         transform="matrix(0.07195239,0,0,0.07099496,28.850649,975.24945)"
+         id="g13838">
+        <path
+           style="fill:#916f6f"
+           id="path13840"
+           d="M 426.672,0 85.342,0 C 38.406,0 0,38.407 0,85.344 L 0,426.657 C 0,473.626 38.406,512 85.342,512 l 341.33,-10e-4 C 473.61,511.999 512,473.626 512,426.655 L 512,85.344 C 512,38.407 473.609,0 426.672,0 Z m 8.625,256 -83.297,0 0,224 -96,0 0,-224 -46.263,0 0,-73.282 46.263,0 0,-47.593 C 256,70.454 283.896,32 359.936,32 l 87.621,0 0,79.285 -71.564,0 c -21.24,-0.035 -23.875,11.076 -23.875,31.756 l -0.118,39.677 96,0 L 435.297,256 Z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="fill:#ff0080;fill-opacity:1"
+         transform="matrix(0.07195239,0,0,0.07099496,28.901617,975.52678)"
+         id="g13838-4">
+        <path
+           style="fill:#ff0080;fill-opacity:1"
+           id="path13840-9"
+           d="M 426.672,0 85.342,0 C 38.406,0 0,38.407 0,85.344 L 0,426.657 C 0,473.626 38.406,512 85.342,512 l 341.33,-10e-4 C 473.61,511.999 512,473.626 512,426.655 L 512,85.344 C 512,38.407 473.609,0 426.672,0 Z m 8.625,256 -83.297,0 0,224 -96,0 0,-224 -46.263,0 0,-73.282 46.263,0 0,-47.593 C 256,70.454 283.896,32 359.936,32 l 87.621,0 0,79.285 -71.564,0 c -21.24,-0.035 -23.875,11.076 -23.875,31.756 l -0.118,39.677 96,0 L 435.297,256 Z"
+           inkscape:connector-curvature="0" />
       </g>
     </g>
   </g>
