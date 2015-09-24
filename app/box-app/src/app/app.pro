@@ -1,21 +1,14 @@
-#-------------------------------------------------
-#
-# Project created by QtCreator 2014-09-05T17:26:26
-#
-#-------------------------------------------------
-
 QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = BoxApp
+TARGET = box-app
 TEMPLATE = app
-
 
 SOURCES += main.cpp\
         mainwindow.cpp\
-    coreapplication.cpp\
-    projectcontroller.cpp\
+    shell/core.cpp\
+    shell/projectcontroller.cpp\
     idatabase.cpp\
     interfacesboxadmin.cpp\
            ifactorydatabase.cpp\
@@ -23,8 +16,8 @@ SOURCES += main.cpp\
            idaorequest.cpp
 
 HEADERS  += mainwindow.h\
-    coreapplication.h\
-    projectcontroller.h\
+    shell/core.h\
+    shell/projectcontroller.h\
     idatabase.h\
     interfacesboxadmin.h\
         interfacesboxadmin_global.h\
